@@ -13,11 +13,30 @@
 ---
 
 ## 🛠️ Minhas Habilidades
-- **Back-end**: PHP, Laravel, Eloquent ORM
-- **Front-end**: Blade, Livewire, Tailwind CSS, HTML, CSS, JavaScript
-- **Banco de Dados**: PostgreSQL, MySQL
-- **Ferramentas**: Git, GitHub, Composer, NPM
-- **Outros**: LGPD, Introdução ao Hacking e Pentest, Cibersegurança
+
+### Back-end:
+- ![PHP logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) **PHP**
+- ![Laravel logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg) **Laravel**
+- **Eloquent ORM**
+
+### Front-end:
+- ![Livewire logo](https://livewire.io/img/logo-2x.png) **Livewire**
+- ![Tailwind CSS logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tailwind_CSS_Logo.svg) **Tailwind CSS**
+- **Blade, HTML, CSS, JavaScript**
+
+### Banco de Dados:
+- ![PostgreSQL logo](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg) **PostgreSQL**
+- **MySQL**
+
+### Ferramentas:
+- ![Git logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-logo.svg) **Git**, **GitHub**
+- ![Composer logo](https://upload.wikimedia.org/wikipedia/commons/9/9e/Composer-logo.svg) **Composer**
+- ![NPM logo](https://upload.wikimedia.org/wikipedia/commons/6/69/Npm-logo.svg) **NPM**
+
+### Outros:
+- **LGPD**
+- **Introdução ao Hacking e Pentest**
+- **Cibersegurança**
 
 ---
 
