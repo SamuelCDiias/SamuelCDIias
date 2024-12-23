@@ -15,23 +15,23 @@
 ## 🛠️ Minhas Habilidades
 
 ### Back-end:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="20" height="20"/> **PHP**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20" height="20"/> **Laravel**
+- <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="20"/> **PHP**
+- <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" height="20"/> **Laravel**
 - **Eloquent ORM**
 
 ### Front-end:
-- <img src="https://livewire.io/img/logo-2x.png" width="20" height="20"/> **Livewire**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Tailwind_CSS_Logo.svg" width="20" height="20"/> **Tailwind CSS**
+- <img src="https://img.shields.io/badge/Livewire-4C51BF?logo=livewire&logoColor=white" height="20"/> **Livewire**
+- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="20"/> **Tailwind CSS**
 - **Blade, HTML, CSS, JavaScript**
 
 ### Banco de Dados:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg" width="20" height="20"/> **PostgreSQL**
+- <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="20"/> **PostgreSQL**
 - **MySQL**
 
 ### Ferramentas:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Git-logo.svg" width="20" height="20"/> **Git**, **GitHub**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Composer-logo.svg" width="20" height="20"/> **Composer**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Npm-logo.svg" width="20" height="20"/> **NPM**
+- <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="20"/> **Git**, **GitHub**
+- <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white" height="20"/> **Composer**
+- <img src="https://img.shields.io/badge/NPM-CC3534?logo=npm&logoColor=white" height="20"/> **NPM**
 
 ### Outros:
 - **LGPD**
