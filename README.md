@@ -46,8 +46,8 @@
 ---
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SamuelCdiias&show_icons=true&theme=radical&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCdiias&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SamuelCDiias&show_icons=true&theme=radical&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCDiias&layout=compact&theme=radical)
 
 ---
 
