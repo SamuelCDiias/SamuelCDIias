@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Samuel
 
-### Desenvolvedor | Php | Laravel | Livewire | Tailwind CSS
+### Programador Backend Júnior ###
 
-🎓 **Desenvolvedor Backend Júnior**  
+🎓 **Graduando em Sistemas de Informação na Universidade Federal Fluminense - UFF**  
 
 ---
 
