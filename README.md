@@ -2,7 +2,7 @@
 
 ### Desenvolvedor | Laravel | Livewire | Tailwind CSS
 
-🎓 Estudante de **Sistemas de Informação** na Universidade Federal Fluminense, com experiência em desenvolvimento backend. Sou apaixonado por tecnologia e por criar soluções que fazem a diferença.
+🎓 **Desenvolvedor Backend Júnior**  
 
 ---
 
