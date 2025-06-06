@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Samuel
 
-### Desenvolvedor | Laravel | Livewire | Tailwind CSS
+### Desenvolvedor | Php | Laravel | Livewire | Tailwind CSS
 
 🎓 **Desenvolvedor Backend Júnior**  
 
