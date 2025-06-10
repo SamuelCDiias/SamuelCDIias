@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Samuel
 
-### Programador Backend Júnior ###
+### Desenvolvedor Backend Júnior ###
 
 🎓 **Graduando em Sistemas de Informação na Universidade Federal Fluminense - UFF**  
 
