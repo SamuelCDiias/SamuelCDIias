@@ -3,6 +3,7 @@
 ### Desenvolvedor Backend Júnior ###
 
 🎓 **Graduando em Sistemas de Informação na Universidade Federal Fluminense - UFF**  
+💼 **Desenvolvedor Backend Júnior na Igreja Novos Começos Niterói**
 
 ---
 
